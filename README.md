@@ -1,4 +1,5 @@
-myBaseCSS
-=========
+# myBaseCSS
 
-My basic CSS structure, style, theme, etc.
+My basic structure, theme and layout for a 'semantic' responsive website/app.
+
+**Still a work in progress**
