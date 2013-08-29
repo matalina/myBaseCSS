@@ -1,0 +1,20 @@
+header {
+	@include row;
+	#logo {
+		@include column;
+		width: $half;
+		margin-top: 0;
+	}
+	#menu {
+		@include column;
+		width: $half;
+	}
+}
+
+main {
+	@include row;
+}
+
+footer {
+	@include row;
+}
